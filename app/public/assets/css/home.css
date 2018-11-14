@@ -1,0 +1,23 @@
+.container {
+    background: lightgreen;
+}
+
+h1 {
+    padding-top: 5%;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+h2 {
+    padding: 1%;
+    font-weight: 400;
+}
+
+footer {
+    margin-top: 1%;
+}
+
+#footer-divider {
+    border-right: solid black 2px;
+    padding-right: 1%;
+}
