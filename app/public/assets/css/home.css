@@ -21,3 +21,15 @@ footer {
     border-right: solid black 2px;
     padding-right: 1%;
 }
+
+html {
+    overflow: hidden;
+   }
+   
+   body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: #fff;
+    background: #4831ab;
+   }
